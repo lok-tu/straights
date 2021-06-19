@@ -12,9 +12,10 @@ Ace is the lowest card (rank 1), while the Kind is the highest card (rank 13).
 At the start of the game each player is dealt 13 cards at the beginning of each round. 
 Immediately following the deal, the player with the 7 of spades goes first. This player must play the 7 of spades in the centre
 of the table. After the 7 of spades, the players take turns to play cards on the table. At this point, the players must play cards
-that constitute legal plays. The following cards are legal:
- A 7 of any suit. This card starts a new pile on the table.
- A card with the same suit and adjacent rank as another card that has already been played. It must be played on the pile
+that constitute legal plays. 
+The following cards are legal:
+- A 7 of any suit. This card starts a new pile on the table.
+- A card with the same suit and adjacent rank as another card that has already been played. It must be played on the pile
 of the appropriate suit.
 
 For example, if the 7 of spades is the only card on the table, then the legal plays are: the 7 of diamonds, the 7 of hearts,

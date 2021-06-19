@@ -33,7 +33,7 @@ Each player’s game score is of the sum of their scores in each round. If no pl
 the end of a round, then the deck is reshuffled and another round begins.
 
 Commands:
-1. play <card> which will play the specified card written with format "<rank><suit>" e.g. "7C"
-2. discard <card> which will discard the card from your hand
+1. play 'card' which will play the specified card written with format 'rank''suit' e.g. "7C"
+2. discard 'card' which will discard the card from your hand
 3. ragequit which will replace the current player with a computer
 4. quit which will terminate the program
